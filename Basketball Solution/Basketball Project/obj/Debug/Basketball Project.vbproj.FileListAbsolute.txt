@@ -1,0 +1,15 @@
+C:\Users\Anna\Desktop\Basketball Solution\Basketball Project\bin\Debug\Basketball Project.exe.config
+C:\Users\Anna\Desktop\Basketball Solution\Basketball Project\bin\Debug\Basketball Project.exe
+C:\Users\Anna\Desktop\Basketball Solution\Basketball Project\bin\Debug\Basketball Project.pdb
+C:\Users\Anna\Desktop\Basketball Solution\Basketball Project\bin\Debug\Basketball Project.xml
+C:\Users\Anna\Desktop\Basketball Solution\Basketball Project\obj\Debug\Basketball Project.vbprojResolveAssemblyReference.cache
+C:\Users\Anna\Desktop\Basketball Solution\Basketball Project\obj\Debug\Basketball_Project.MainForm.resources
+C:\Users\Anna\Desktop\Basketball Solution\Basketball Project\obj\Debug\Basketball_Project.Resources.resources
+C:\Users\Anna\Desktop\Basketball Solution\Basketball Project\obj\Debug\Basketball Project.vbproj.GenerateResource.Cache
+C:\Users\Anna\Desktop\Basketball Solution\Basketball Project\obj\Debug\Basketball Project.exe
+C:\Users\Anna\Desktop\Basketball Solution\Basketball Project\obj\Debug\Basketball Project.xml
+C:\Users\Anna\Desktop\Basketball Solution\Basketball Project\obj\Debug\Basketball Project.pdb
+C:\Users\Anna\Documents\CS221\Basketball Solution\Basketball Project\bin\Debug\Basketball Project.exe.config
+C:\Users\Anna\Documents\CS221\Basketball Solution\Basketball Project\obj\Debug\Basketball Project.exe
+C:\Users\Anna\Documents\CS221\Basketball Solution\Basketball Project\obj\Debug\Basketball Project.xml
+C:\Users\Anna\Documents\CS221\Basketball Solution\Basketball Project\obj\Debug\Basketball Project.pdb
